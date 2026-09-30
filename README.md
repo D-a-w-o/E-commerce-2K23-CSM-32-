@@ -8,7 +8,7 @@ Semester project for the E-Commerce course covering the complete Software Develo
 
 ## Sprints Roadmap
 - [x] **Sprint 1:** System Architecture & Scope Definition (`/docs/SPRINT_1.md`)
-- [ ] **Sprint 2:** Database Implementation & Auth Scaffolding
+- [x] **Sprint 2:** Database Implementation & Auth Scaffolding
 - [ ] **Sprint 3:** Catalog & Search Implementation
 - [ ] **Sprint 4:** Shopping Cart & State Management
 - [ ] **Sprint 5:** Checkout & Payment Integration
